@@ -1,6 +1,10 @@
 ![call me mf pauli picassoooo!](img/teamBanner.png "TEAM BANNER BABY")
 
 # 0010FinalProject - a colorful odyssey guided by the we r team 99
+Members 
+- Luke, email: ljc54@pitt.edu
+- Jurrod, email: jem373@pitt.edu
+- James, email: jsp82@pitt.edu
 
 
 ## Introduction 
@@ -16,6 +20,13 @@ After parsing the park data and generating a bar graph visualization it was clea
 
 
 ## Data Sets
-Arrest Data: https://data.wprdc.org/dataset/arrest-data
+Arrest 
+Data: https://data.wprdc.org/dataset/arrest-data
+Description: This is an in-depth data set highlighting all violent and nonviolent pittsburgh crimes, we intended to sort it by neighborhood. 
+
 Taxes: https://data.wprdc.org/dataset/city-of-pittsburgh-property-tax-delinquency
+Description: Tax deliquency data for pitttsburgh region.
+
+
 Parks: https://data.wprdc.org/dataset/parks
+Description: Data set for parks and medians in pittsburgh region.
